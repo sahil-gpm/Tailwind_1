@@ -1,2 +1,3 @@
-# Tailwind_1
- just playing with tailwind css , created in fy of my diploma
+# Facebook login page with tailwind 
+
+A Facebook login page UI clone built with tailwind css
